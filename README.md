@@ -1,5 +1,5 @@
-# name - Abdullah Iqbal
-# reg-no - KEG/IT/2021/F/0040
+## name - Abdullah Iqbal
+## reg-no - KEG/IT/2021/F/0040
 
 ## i have created the Read/View function in this project (foodMs)
 
@@ -34,10 +34,10 @@ private void formWindowOpened(java.awt.event.WindowEvent evt) {
 
   **Group members**
 
-### Rimza - KEG/IT/2021/F/0010 - Delete function (deleteFoods.form)
+#### Rimza - KEG/IT/2021/F/0010 - Delete function (deleteFoods.form)
 
-### Aadhil - KEG/IT/2021/F/0027 - Update function (updateFood.form)
+#### Aadhil - KEG/IT/2021/F/0027 - Update function (updateFood.form)
 
-### Aakila - KEG/IT/2021/F/0065 - Insert function (addFoods.form)
+#### Aakila - KEG/IT/2021/F/0065 - Insert function (addFoods.form)
 
 
