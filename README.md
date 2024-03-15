@@ -1,10 +1,10 @@
-## name - Abdullah Iqbal
-## reg-no - KEG/IT/2021/F/0040
+### name - Abdullah Iqbal
+### reg-no - KEG/IT/2021/F/0040
 
-## i have created the Read/View function in this project (foodMs)
+### i have created the Read/View function in this project (foodMs)
 
-## I have created the adminDashboard.form and viewFoods.form ,   If we click the view button in adminDashboard JFrame a Jtable form will be popup with Field names and data. also i have added a SQL Exception it will run if we cannot retrive the data from database
-## i have provided an extra code in adminDashboard.form (commented) , it is a way to view food details without creating table seperately
+### I have created the adminDashboard.form and viewFoods.form ,   If we click the view button in adminDashboard JFrame a Jtable form will be popup with Field names and data. also i have added a SQL Exception it will run if we cannot retrive the data from database
+
 ```
 private void formWindowOpened(java.awt.event.WindowEvent evt) {                                  
         Connection con = DbConnection.ConnectDB();
@@ -30,7 +30,11 @@ private void formWindowOpened(java.awt.event.WindowEvent evt) {
         }
     }
 
-```      
+```
+
+### i have provided an extra code in adminDashboard.form (commented) , it is a way to view food details without creating table seperately
+
+
 
   **Group members**
 
